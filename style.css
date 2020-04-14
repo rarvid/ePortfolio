@@ -55,6 +55,11 @@ div {
 
 a {
 	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: blue;
 }
 .edu {
 	margin-top: 5px;
