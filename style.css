@@ -1,0 +1,109 @@
+body {
+	background-color: #56282D;
+
+}
+
+p {
+	font-size: 22px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+div {
+	font-family: sans-serif;
+	color: white;
+}
+
+#main {
+	margin: 0 auto;
+	border-radius: 25px;
+	padding-top: 15px;
+	padding-left: 15px;
+	width: 1800px;
+	height: 3000px;
+	background-color: #544343;
+}
+
+.summary {
+	width: 1100px;
+	height: 230px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #626d58;
+	float: left;
+}
+.pic {
+	margin-left: 1200px;
+	width: auto;
+	height: 550px;
+}
+.contact {
+	margin-top: 5px;
+	width: 1100px;
+	height: 220px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #626d58;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+}
+.edu {
+	margin-top: 5px;
+	width: 1100px;
+	height: 180px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #626d58;
+	float: left;
+}
+
+.exp {
+	margin-top: 150px;
+	width: 1770px;
+	height: 2000px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #626d58;
+}
+
+#dns {
+	width: 850px;
+	height: 300px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #77966d;
+	float: left;
+}
+
+.button {
+	margin-left: 350px;
+	width: 100px;
+	height: 50px;
+	padding-top:30px;
+	border-radius: 15px;
+	text-align: center;
+	background-color: #bdc667;
+}
+
+#pc32 {
+	margin-left: 885px;
+	width: 850px;
+	height: 300px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #77966d;
+}
+
