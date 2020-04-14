@@ -140,3 +140,13 @@ a {
 	background-color: #626d58;
 }
 
+.micron {
+	width: 850px;
+	height: 300px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #77966d;
+	float: left;
+}
+
