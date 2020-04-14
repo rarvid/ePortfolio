@@ -95,6 +95,7 @@ a {
 	border-radius: 15px;
 	text-align: center;
 	background-color: #bdc667;
+	float: left;
 }
 
 #pc32 {
@@ -107,3 +108,24 @@ a {
 	background-color: #77966d;
 }
 
+#func {
+	margin-top: 20px;
+	width: 850px;
+	height: 300px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #77966d;
+	float: left;
+}
+
+#socket {
+	margin-top: 20px;
+	margin-left: 885px;
+	width: 850px;
+	height: 300px;
+	padding-top: 5px;
+	padding-left: 15px;
+	border-radius: 25px;
+	background-color: #77966d;
+}
